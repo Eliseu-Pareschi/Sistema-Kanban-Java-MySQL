@@ -27,8 +27,10 @@ O sistema utiliza três tabelas principais:
 3. Certifique-se de adicionar o `mysql-connector-java` às bibliotecas do seu projeto no NetBeans.
 
 ## 👥 Integrantes
-Nome	RGM
-Giovani Ramires Cardoso dos Santos	46104828
-Arthur Oliveira Souza	42941661
-Arthur Ramires Quirino	46092323
-Eliseu Carlos Lopes Pareschi 45876029
+
+| Nome | RGM |
+| :--- | :--- |
+| Giovani Ramires Cardoso dos Santos | 46104828 |
+| Arthur Oliveira Souza | 42941661 |
+| Arthur Ramires Quirino | 46092323 |
+| Eliseu Carlos Lopes Pareschi | 45876029 |
