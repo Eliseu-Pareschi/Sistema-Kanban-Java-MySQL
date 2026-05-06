@@ -25,3 +25,10 @@ O sistema utiliza três tabelas principais:
 1. Clone o repositório.
 2. Importe o arquivo `kanban_db.sql` no seu MySQL para gerar a estrutura e os dados de teste.
 3. Certifique-se de adicionar o `mysql-connector-java` às bibliotecas do seu projeto no NetBeans.
+
+## 👥 Integrantes
+Nome	RGM
+Giovani Ramires Cardoso dos Santos	46104828
+Arthur Oliveira Souza	42941661
+Arthur Ramires Quirino	46092323
+Eliseu Carlos Lopes Pareschi 45876029
